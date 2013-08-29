@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>autoremove</key>
+        <false/>
+        <key>catalogs</key>
+        <array>
+                <string>production</string>
+        </array>
+        <key>description</key>
+        <string>Manages licensing for Autodesk products.</string>
+        <key>display_name</key>
+        <string>Autodesk License Manager</string>
+        <key>installed_size</key>
+        <integer>120648</integer>
+        <key>installer_item_hash</key>
+        <string>6426e29831b0c8871819aad33a0c3134a54cb7d96973cc0a9a8b56b4d1e36362</string>
+        <key>installer_item_location</key>
+        <string>apps/Autodesk/Autodesk_Maya_2014_English_Japanese_SimplifiedChinese_MAC_OSX-2014.0.dmg</string>
+        <key>installer_item_size</key>
+        <integer>1321946</integer>
+        <key>minimum_os_version</key>
+        <string>10.4.0</string>
+        <key>name</key>
+        <string>Maya2014_AutodeskLicenseManager</string>
+        <key>package_path</key>
+        <string>Install Maya 2014.app/Contents/Resources/Maya/Additional Items/AdLM_standalone.mpkg</string>
+        <key>receipts</key>
+        <array>
+                <dict>
+                        <key>filename</key>
+                        <string>adlmapps7.pkg</string>
+                        <key>installed_size</key>
+                        <integer>344</integer>
+                        <key>packageid</key>
+                        <string>com.Autodesk.adlmapps7</string>
+                        <key>version</key>
+                        <string>7.0.52.0</string>
+                </dict>
+                <dict>
+                        <key>filename</key>
+                        <string>adlmflexnetclient.pkg</string>
+                        <key>installed_size</key>
+                        <integer>27260</integer>
+                        <key>packageid</key>
+                        <string>com.Autodesk.adlmflexnetclient</string>
+                        <key>version</key>
+                        <string>7.0.52.0</string>
+                </dict>
+                <dict>
+                        <key>filename</key>
+                        <string>adlmframework7.pkg</string>
+                        <key>installed_size</key>
+                        <integer>93044</integer>
+                        <key>packageid</key>
+                        <string>com.Autodesk.adlmframework7</string>
+                        <key>version</key>
+                        <string>7.0.52.0</string>
+                </dict>
+        </array>
+        <key>uninstall_method</key>
+        <string>removepackages</string>
+        <key>uninstallable</key>
+        <true/>
+        <key>update_for</key>
+        <array>
+                <string>Maya2014</string>
+        </array>
+        <key>version</key>
+        <string>7.0.52.0</string>
+</dict>
+</plist> 
+

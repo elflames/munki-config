@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>autoremove</key>
+        <false/>
+        <key>catalogs</key>
+        <array>
+                <string>production</string>
+        </array>
+        <key>description</key>
+        <string>This installs Autodesk Maya 2014 including the core application and plug-ins.</string>
+        <key>display_name</key>
+        <string>Maya 2014</string>
+        <key>installed_size</key>
+        <integer>1841208</integer>
+        <key>installer_item_hash</key>
+        <string>6426e29831b0c8871819aad33a0c3134a54cb7d96973cc0a9a8b56b4d1e36362</string>
+        <key>installer_item_location</key>
+        <string>apps/Autodesk/Autodesk_Maya_2014_English_Japanese_SimplifiedChinese_MAC_OSX-2014.0.dmg</string>
+        <key>installer_item_size</key>
+        <integer>1321946</integer>
+        <key>minimum_os_version</key>
+        <string>10.4.0</string>
+        <key>name</key>
+        <string>Maya2014</string>
+        <key>package_path</key>
+        <string>Install Maya 2014.app/Contents/Resources/Maya/Maya2014.mpkg</string>
+        <key>receipts</key>
+        <array>
+                <dict>
+                        <key>filename</key>
+                        <string>Fcheck_app2014.pkg</string>
+                        <key>installed_size</key>
+                        <integer>11356</integer>
+                        <key>name</key>
+                        <string>Fcheck_app2014.0</string>
+                        <key>packageid</key>
+                        <string>com.autodesk.pkg.Fcheck_app2014.0</string>
+                        <key>version</key>
+                        <string>2014.0</string>
+                </dict>
+                <dict>
+                        <key>filename</key>
+                        <string>Maya_AdLMconf2014.pkg</string>
+                        <key>installed_size</key>
+                        <integer>148</integer>
+                        <key>name</key>
+                        <string>Maya_AdLMconf2014.0</string>
+                        <key>packageid</key>
+                        <string>com.autodesk.pkg.Maya_AdLMconf2014.0</string>
+                        <key>version</key>
+                        <string>2014.0</string>
+                </dict>
+                <dict>
+                        <key>filename</key>
+                        <string>Maya_core2014.pkg</string>
+                        <key>installed_size</key>
+                        <integer>1724748</integer>
+                        <key>name</key>
+                        <string>Maya_core2014.0</string>
+                        <key>packageid</key>
+                        <string>com.autodesk.pkg.Maya_core2014</string>
+                        <key>version</key>
+                        <string>2014.0</string>
+                </dict>
+                <dict>
+                        <key>filename</key>
+                        <string>Maya_dev2014.pkg</string>
+                        <key>installed_size</key>
+                        <integer>104956</integer>
+                        <key>name</key>
+                        <string>Maya_dev2014.0</string>
+                        <key>packageid</key>
+                        <string>com.autodesk.pkg.Maya_dev2014.0</string>
+                        <key>version</key>
+                        <string>2014.0</string>
+                </dict>
+        </array>
+        <key>uninstall_method</key>
+        <string>removepackages</string>
+        <key>uninstallable</key>
+        <true/>
+        <key>version</key>
+        <string>2014.0</string>
+</dict>
+</plist>
